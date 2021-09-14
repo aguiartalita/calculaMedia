@@ -1,0 +1,83 @@
+body {
+    background-image: url(/fundo.png);
+    background-repeat: no-repeat;
+    background-size: 100vw;
+}
+
+.box__titulo{
+     text-align: center;
+     margin-bottom: 1em;
+}
+
+
+h1 {
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+    font-size: 2em;
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+.subtitulo{
+    font-family: 'Inconsolata', monospace;
+    text-align: center;
+    font-weight: 500;
+}
+
+.container__nota {
+    width: 100%;
+    display: grid;
+    place-content: center;
+}
+
+.box__instrucao{
+    font-family: 'Inconsolata', monospace;
+    font-weight: 600;
+    text-align: center;
+    font-size: 1em;
+}
+input{
+    display: block;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 2em;
+}
+
+.box__botao{
+    padding-left: 26em;
+    margin-bottom: 4em;
+}
+.botao__calculo{
+    background-color:#ba5580;
+    color:white;
+    font-family:('Inconsolata', monospace);
+    font-weight: 400;
+    font-size: 2em;
+    text-transform: uppercase;
+    border-radius: 2em;
+}
+.box__resposta{
+    font-family: ('Inconsolata'monospace);
+    font-size: 1em;
+     color: white; 
+     text-align: center;
+     margin-bottom: 2em;
+     border: 5px solid purple;
+     border-radius: 2em;
+     width: 50vw;
+     padding-bottom: 2em;
+     padding-top: 2em;
+     margin-left: 15em;
+   
+
+}
+.resposta{
+    color: black;
+    font-size: 2em;
+}
+
+footer{
+    text-align: center;
+    font-size: 0.8em;
+    color: white;
+}
