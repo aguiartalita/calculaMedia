@@ -23,7 +23,7 @@ Esta é uma solução do desafio proposto pela escola online Alura no projeto de
 ![aluraimersaodev1](https://user-images.githubusercontent.com/87323173/133300079-0e871e78-8351-4bc4-a37c-b6c58540bb7b.png)
 
 ### Links 
-[Meu projeto]()
+[Meu projeto](https://aguiartalita.github.io/calculaMedia/)
 
 ## Meu processo
 
